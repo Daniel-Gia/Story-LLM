@@ -80,7 +80,6 @@ def generate(prompt, max_new_tokens=200, temperature=0.8, top_k=40):
 
 
 def main():
-    print("TinyStories LLM")
     print("Type a prompt\n")
 
     while True:
