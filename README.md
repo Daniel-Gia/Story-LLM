@@ -1,4 +1,5 @@
 # Story-LLM (TinyStories Transformer)
+<img width="866" height="205" alt="image" src="https://github.com/user-attachments/assets/a45031f5-a123-4c28-b717-e42f737ebb78" />
 
 A small GPT-style Transformer language model trained to generate short stories.  
 It uses a ByteLevel BPE tokenizer and a causal self-attention model implemented in PyTorch.
