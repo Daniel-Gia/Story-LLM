@@ -1,0 +1,4 @@
+/code/__pycache__/
+data/
+checkpoints/
+tokenizer/
